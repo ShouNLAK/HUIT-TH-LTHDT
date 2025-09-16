@@ -1,0 +1,7 @@
+E:\LuuDuLieuSinhVien\2001240206 - Nguyễn Lê Anh Khoa\Buoi_1\Buoi_1\bin\Debug\Buoi_1.exe.config
+E:\LuuDuLieuSinhVien\2001240206 - Nguyễn Lê Anh Khoa\Buoi_1\Buoi_1\bin\Debug\Buoi_1.exe
+E:\LuuDuLieuSinhVien\2001240206 - Nguyễn Lê Anh Khoa\Buoi_1\Buoi_1\bin\Debug\Buoi_1.pdb
+E:\LuuDuLieuSinhVien\2001240206 - Nguyễn Lê Anh Khoa\Buoi_1\Buoi_1\obj\Debug\Buoi_1.csproj.AssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001240206 - Nguyễn Lê Anh Khoa\Buoi_1\Buoi_1\obj\Debug\Buoi_1.csproj.CoreCompileInputs.cache
+E:\LuuDuLieuSinhVien\2001240206 - Nguyễn Lê Anh Khoa\Buoi_1\Buoi_1\obj\Debug\Buoi_1.exe
+E:\LuuDuLieuSinhVien\2001240206 - Nguyễn Lê Anh Khoa\Buoi_1\Buoi_1\obj\Debug\Buoi_1.pdb
