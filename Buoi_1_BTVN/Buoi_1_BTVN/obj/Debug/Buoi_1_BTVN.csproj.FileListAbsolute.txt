@@ -1,0 +1,7 @@
+B:\Shou\Code - Education\Lập trình hướng đối tượng\Buoi_1_BTVN\Buoi_1_BTVN\bin\Debug\Buoi_1_BTVN.exe.config
+B:\Shou\Code - Education\Lập trình hướng đối tượng\Buoi_1_BTVN\Buoi_1_BTVN\bin\Debug\Buoi_1_BTVN.exe
+B:\Shou\Code - Education\Lập trình hướng đối tượng\Buoi_1_BTVN\Buoi_1_BTVN\bin\Debug\Buoi_1_BTVN.pdb
+B:\Shou\Code - Education\Lập trình hướng đối tượng\Buoi_1_BTVN\Buoi_1_BTVN\obj\Debug\Buoi_1_BTVN.csproj.AssemblyReference.cache
+B:\Shou\Code - Education\Lập trình hướng đối tượng\Buoi_1_BTVN\Buoi_1_BTVN\obj\Debug\Buoi_1_BTVN.csproj.CoreCompileInputs.cache
+B:\Shou\Code - Education\Lập trình hướng đối tượng\Buoi_1_BTVN\Buoi_1_BTVN\obj\Debug\Buoi_1_BTVN.exe
+B:\Shou\Code - Education\Lập trình hướng đối tượng\Buoi_1_BTVN\Buoi_1_BTVN\obj\Debug\Buoi_1_BTVN.pdb
