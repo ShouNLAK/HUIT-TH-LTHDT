@@ -14,7 +14,8 @@ namespace Buoi_1_BTVN
         public double ChieuDai
         {
             get { return chieuDai; }
-            set {
+            set
+            {
                 if (value > 0)
                     chieuDai = value;
                 else
@@ -24,7 +25,8 @@ namespace Buoi_1_BTVN
         public double ChieuRong
         {
             get { return chieuRong; }
-            set {
+            set
+            {
                 if (value > 0)
                     chieuRong = value;
                 else
@@ -74,6 +76,36 @@ namespace Buoi_1_BTVN
             ChieuDai = double.Parse(Console.ReadLine());
             Console.Write("Nhap chieu rong: ");
             ChieuRong = double.Parse(Console.ReadLine());
+        }
+        public void ChangeSize(int tx, int ty, int kieu)
+        {
+            if (kieu == 1)
+            {
+                chieuDai += tx;
+                chieuRong += ty;
+            }
+            else if (kieu == 0)
+            {
+                chieuDai -= tx;
+                chieuRong -= ty;
+            }
+            else
+                Console.WriteLine("Kieu khong hop le");
+        }
+        public void ChangeSize(HinhChuNhat a, int kieu)
+        {
+            if (kieu == 1)
+            {
+                chieuDai += a.chieuDai;
+                chieuRong += a.chieuRong;
+            }
+            else if (kieu == 0)
+            {
+                chieuDai -= a.chieuDai;
+                chieuRong -= a.chieuRong;
+            }
+            else
+                Console.WriteLine("Kieu khong hop le");
         }
     }
 }
