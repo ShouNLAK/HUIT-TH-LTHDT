@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Khoa>
+	<TenKhoa>CNTT</TenKhoa>
+	<ViTri>140 Le Trong Tan</ViTri>
+	<SDT>01456789</SDT>
+	<SoNganh>3</SoNganh>
+	<DSGV>
+		<GiangVien>
+			<HoTen>Lam Thi Hoa Mi</HoTen>
+			<SoNhom>3</SoNhom>
+		</GiangVien>
+		<GiangVien>
+			<HoTen>Duong Thi Mong Thuy</HoTen>
+			<SoNhom>3</SoNhom>
+		</GiangVien>
+		<GiangVien>
+			<HoTen>Vu Van Vinh</HoTen>
+			<SoNhom>1</SoNhom>
+		</GiangVien>
+		<GiangVien>
+			<HoTen>Manh Thien Ly</HoTen>
+			<SoNhom>4</SoNhom>
+		</GiangVien>
+	</DSGV>
+</Khoa>
