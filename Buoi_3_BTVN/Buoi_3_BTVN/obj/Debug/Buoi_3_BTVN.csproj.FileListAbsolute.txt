@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\bin\Debug\Buoi_3_BTVN.exe.config
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\bin\Debug\Buoi_3_BTVN.exe
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\bin\Debug\Buoi_3_BTVN.pdb
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\obj\Debug\Buoi_3_BTVN.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\obj\Debug\Buoi_3_BTVN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\obj\Debug\Buoi_3_BTVN.exe
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\obj\Debug\Buoi_3_BTVN.pdb
+C:\Users\Admin\source\repos\Buoi_3_BTVN\Buoi_3_BTVN\obj\Debug\Buoi_3_BTVN.exe.config
