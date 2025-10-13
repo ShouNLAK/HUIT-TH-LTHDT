@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CongTy>
+	<NhanVien>
+		<Loai>1</Loai>
+		<MaNhanVien>NV001</MaNhanVien>
+		<HoTen>Tran Van A</HoTen>
+		<NamSinh>1999</NamSinh>
+		<GioiTinh>1</GioiTinh>
+		<HeSoLuong>3.65</HeSoLuong>
+		<NamVaoLam>2020</NamVaoLam>
+		<SoNgayNghi>1</SoNgayNghi>
+	</NhanVien>
+	<NhanVien>
+		<Loai>2</Loai>
+		<MaNhanVien>NV002</MaNhanVien>
+		<HoTen>Nguyen Quang B</HoTen>
+		<NamSinh>2000</NamSinh>
+		<GioiTinh>1</GioiTinh>
+		<HeSoLuong>2</HeSoLuong>
+		<NamVaoLam>2023</NamVaoLam>
+		<DSToiThieu>50</DSToiThieu>
+		<DSThucTe>150</DSThucTe>
+	</NhanVien>
+	<NhanVien>
+		<Loai>3</Loai>
+		<MaNhanVien>CB001</MaNhanVien>
+		<HoTen>Le Thi H</HoTen>
+		<NamSinh>1996</NamSinh>
+		<GioiTinh>0</GioiTinh>
+		<HeSoLuong>2</HeSoLuong>
+		<NamVaoLam>2016</NamVaoLam>
+		<ChucVu>Giam doc</ChucVu>
+		<HeSoChucVu>3</HeSoChucVu>
+	</NhanVien>
+</CongTy>

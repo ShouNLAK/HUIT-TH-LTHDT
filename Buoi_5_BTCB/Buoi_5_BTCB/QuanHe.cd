@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Buoi_5_BTCB.NhanVienABC">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAiAAwAAAAABAAAAAIABAAAACgAAAAIAg=</HashCode>
+      <FileName>NhanVienABC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi_5_BTCB.NhanVienSX">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAABQAAAAAAAAAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>NhanVienSX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi_5_BTCB.NhanVienKD">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAAAAAAAAAAAAQAAAACAAAQIAIAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>NhanVienKD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi_5_BTCB.CanBo">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAQAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>CanBo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi_5_BTCB.DSNhanVien">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAgAAAAAAAAAAAABAAAAAAAAhAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DSNhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
