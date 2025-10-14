@@ -58,5 +58,12 @@ namespace Buoi_5_BTVN
             }
         }
 
+        public void Xuat()
+        {
+            foreach (MonHoc node in dsMonHoc)
+                node.Xuat();
+        }
+
     }
 }
+
