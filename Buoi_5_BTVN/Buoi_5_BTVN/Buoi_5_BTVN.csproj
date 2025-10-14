@@ -43,7 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DanhSachHoaDon.cs" />
     <Compile Include="DanhSachMonHoc.cs" />
+    <Compile Include="HoaDon.cs" />
+    <Compile Include="HoaDonKhachThanThiet.cs" />
+    <Compile Include="HoaDonKhachVangLai.cs" />
+    <Compile Include="HoaDonKhachVIP.cs" />
+    <Compile Include="MatHang.cs" />
     <Compile Include="MonDoAn.cs" />
     <Compile Include="MonHoc.cs" />
     <Compile Include="MonLyThuyet.cs" />
@@ -55,6 +61,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DSHD.xml" />
     <Content Include="DSMH.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

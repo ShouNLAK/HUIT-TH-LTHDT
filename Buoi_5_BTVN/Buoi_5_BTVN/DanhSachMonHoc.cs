@@ -60,8 +60,12 @@ namespace Buoi_5_BTVN
 
         public void Xuat()
         {
+            Console.Write("{0,-10} | {1,-20} | {2,-5} | {3,-20} | {4,-37} | {5,-3} | {6,-10}\n", "Ma mon", "Ten mon" , "So TC", "Khoa phu trach","Danh sach diem hoc phan","TK","Chi phi");
             foreach (MonHoc node in dsMonHoc)
+            {
                 node.Xuat();
+                Console.WriteLine();
+            }
         }
 
     }

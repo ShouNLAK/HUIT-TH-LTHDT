@@ -78,6 +78,7 @@ namespace Buoi_5_BTVN
         }
         public override void Xuat()
         {
+            base.XuatTT();
             Console.Write("L1: {0,-3} | L2: {1,-3} | L3: {2,-3} | L4: {3,-3} | TK: {4,-3} | {5,-10}",
                 DiemLan1, DiemLan2, DiemLan3, DiemLan4, DiemTongKet(), ChiPhiMonHoc());
         }

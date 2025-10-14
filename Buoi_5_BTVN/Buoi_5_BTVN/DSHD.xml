@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<HoaDon loai ="VIP">
+		<MaKH>KH001</MaKH>
+		<TenKH>Nguyen Van A</TenKH>
+		<NgayLap>2025-10-11</NgayLap>
+		<MatHang>
+			<MaHang>MH001</MaHang>
+			<TenHang>Nuoc giai khat</TenHang>
+			<DonGia>89000</DonGia>
+		</MatHang>
+		<SoLuong>20</SoLuong>
+	</HoaDon>
+	<HoaDon loai ="TT">
+		<MaKH>KH002</MaKH>
+		<TenKH>Tran Van B</TenKH>
+		<NgayLap>2025-10-11</NgayLap>
+		<MatHang>
+			<MaHang>MH002</MaHang>
+			<TenHang>Thung son</TenHang>
+			<DonGia>50000</DonGia>
+		</MatHang>
+		<SoLuong>70</SoLuong>
+	</HoaDon>
+	<HoaDon loai ="VL">
+		<MaKH>KH003</MaKH>
+		<TenKH>Le Thi H</TenKH>
+		<NgayLap>2025-10-11</NgayLap>
+		<MatHang>
+			<MaHang>MH003</MaHang>
+			<TenHang>Banh trung thu</TenHang>
+			<DonGia>49000</DonGia>
+		</MatHang>
+		<SoLuong>50</SoLuong>
+	</HoaDon>
+</DanhSach>

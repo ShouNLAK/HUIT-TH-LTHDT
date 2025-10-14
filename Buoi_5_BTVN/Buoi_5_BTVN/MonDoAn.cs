@@ -51,7 +51,8 @@ namespace Buoi_5_BTVN
         }
         public override void Xuat()
         {
-            Console.Write("Diem GVHD : {0,-3} | Diem GVPB : {1,-3} | Tong ket : {2,-3} | {3,-10}",
+            base.XuatTT();
+            Console.Write("Diem GVHD : {0,-5} | Diem GVPB : {1,-5} | TK: {2,-3} | {3,-10}",
                 DiemGVHD,DiemGVPB,DiemTongKet(),ChiPhiMonHoc());
         }
     }

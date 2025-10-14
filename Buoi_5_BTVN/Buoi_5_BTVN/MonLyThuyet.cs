@@ -64,7 +64,8 @@ namespace Buoi_5_BTVN
         }
         public override void Xuat()
         {
-            Console.Write("TL: {0,-3} | GK: {1,-3} | CK: {2,-3} | TK: {4,-3} | {5,-10}",
+            base.XuatTT();
+            Console.Write("TL: {0,-6} | GK: {1,-6} | CK: {2,-7} | TK: {3,-3} | {4,-10}",
                 DiemTL, DiemGK, DiemCK, DiemTongKet(), ChiPhiMonHoc());
         }
     }

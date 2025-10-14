@@ -45,7 +45,7 @@ namespace Buoi_5_BTVN
         }
         public void XuatTT()
         {
-            Console.Write("{0,-10} | {1,-20} | {2,-3} | {3,-20} | ", MaMon, TenMon, SoTC, KhoaPhuTrach); ;
+            Console.Write("{0,-10} | {1,-20} | {2,-5} | {3,-20} | ", MaMon, TenMon, SoTC, KhoaPhuTrach);
         }
 
         public abstract double DiemTongKet();
