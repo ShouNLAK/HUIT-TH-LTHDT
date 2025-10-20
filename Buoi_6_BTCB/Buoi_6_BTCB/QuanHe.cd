@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Buoi_6_BTCB.DSHoaDon">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAFAAAIABgAAAACAAAEAAERAAAgABACIBAgAIA=</HashCode>
+      <FileName>DSHoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi_6_BTCB.HDDaiLy" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAAAAAAAABAABAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDDaiLy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi_6_BTCB.HDCongTy" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAEAAAIAAABAAAAAAAAAAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>HDCongTy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Buoi_6_BTCB.HDKHCaNhan" Collapsed="true">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEABEAAAIAAABAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>HDKHCaNhan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Buoi_6_BTCB.HoaDon">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>igAAEAIAAAAIAAABAAAAAIAAAEAAAAAAAAAQAAgAEEA=</HashCode>
+      <FileName>HoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buoi_6_BTCB.Program">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Buoi_6_BTCB.IHoTro" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHoTro.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
