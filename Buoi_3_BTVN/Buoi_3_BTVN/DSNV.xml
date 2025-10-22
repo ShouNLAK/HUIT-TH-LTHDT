@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSNhanVien>
+	<NhanVien MaNV ="NV001">
+		<TenNV>Nguyen Van A</TenNV>
+		<PhongBan>IT</PhongBan>
+		<ChucVu>1</ChucVu>
+		<HeSoLuong>2.34</HeSoLuong>
+		<ThamNienCT>2.3</ThamNienCT>
+		<SoNgayLamViec>24</SoNgayLamViec>
+	</NhanVien>
+	<NhanVien MaNV ="NV002">
+		<TenNV>Tran Thi B</TenNV>
+		<PhongBan>Ke Toan</PhongBan>
+		<ChucVu>1</ChucVu>
+		<HeSoLuong>1.67</HeSoLuong>
+		<ThamNienCT>1.5</ThamNienCT>
+		<SoNgayLamViec>22</SoNgayLamViec>
+	</NhanVien>
+	<NhanVien MaNV ="NV003">
+			<TenNV>Le Van C</TenNV>
+			<PhongBan>Nhan Su</PhongBan>
+			<ChucVu>2</ChucVu>
+			<HeSoLuong>2.00</HeSoLuong>
+			<ThamNienCT>3.0</ThamNienCT>
+			<SoNgayLamViec>26</SoNgayLamViec>
+	</NhanVien>
+	<NhanVien MaNV ="NV004">
+		<TenNV>Pham Thi D</TenNV>
+		<PhongBan>IT</PhongBan>
+		<ChucVu>1</ChucVu>
+		<HeSoLuong>1.50</HeSoLuong>
+		<ThamNienCT>0.5</ThamNienCT>
+	<SoNgayLamViec>20</SoNgayLamViec>
+	</NhanVien>
+	<NhanVien MaNV ="NV005">
+		<TenNV>Hoang Van E</TenNV>
+		<PhongBan>Ke Toan</PhongBan>
+		<ChucVu>2</ChucVu>
+		<HeSoLuong>2.50</HeSoLuong>
+		<ThamNienCT>4.0</ThamNienCT>
+		<SoNgayLamViec>25</SoNgayLamViec>
+	</NhanVien>
+</DSNhanVien>

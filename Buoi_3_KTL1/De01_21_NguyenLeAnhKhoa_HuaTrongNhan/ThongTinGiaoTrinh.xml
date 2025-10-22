@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NhaXuatBan>
+	<TenNXB>Nha xuat ban Cong Thuong</TenNXB>
+	<DiaChiNXB>140 Le Trong Tan</DiaChiNXB>
+	<DanhSachGT>
+		<GiaoTrinh>
+			<MaGT>GT0001</MaGT>
+			<TenGT>Cau truc du lieu va giai thuat</TenGT>
+			<ChuBien>Nguyen Le A</ChuBien>
+			<NamXB>2024</NamXB>
+			<SoLuongXB>1000</SoLuongXB>
+			<SoTrangIn>162</SoTrangIn>
+		</GiaoTrinh>
+		<GiaoTrinh>
+			<MaGT>GT0002</MaGT>
+			<TenGT>Lap trinh Python</TenGT>
+			<ChuBien>Tran Van A</ChuBien>
+			<NamXB>2023</NamXB>
+			<SoLuongXB>3000</SoLuongXB>
+			<SoTrangIn>212</SoTrangIn>
+		</GiaoTrinh>
+		<GiaoTrinh>
+			<MaGT>GT0003</MaGT>
+			<TenGT>Lap trinh C / C++</TenGT>
+			<ChuBien>Nguyen Van B</ChuBien>
+			<NamXB>2025</NamXB>
+			<SoLuongXB>500</SoLuongXB>
+			<SoTrangIn>89</SoTrangIn>
+		</GiaoTrinh>
+		<GiaoTrinh>
+			<MaGT>GT0004</MaGT>
+			<TenGT>He Co So Du Lieu</TenGT>
+			<ChuBien>Thien Quan H</ChuBien>
+			<NamXB>2024</NamXB>
+			<SoLuongXB>2000</SoLuongXB>
+			<SoTrangIn>172</SoTrangIn>
+		</GiaoTrinh>
+		<GiaoTrinh>
+			<MaGT>GT0005</MaGT>
+			<TenGT>Ngon Ngu Java</TenGT>
+			<ChuBien>Quach Minh T</ChuBien>
+			<NamXB>2025</NamXB>
+			<SoLuongXB>2000</SoLuongXB>
+			<SoTrangIn>310</SoTrangIn>
+		</GiaoTrinh>
+	</DanhSachGT>
+</NhaXuatBan>

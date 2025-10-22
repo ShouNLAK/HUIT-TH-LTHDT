@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\obj\Debug\Buoi_5_BTCB.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\obj\Debug\Buoi_5_BTCB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\bin\Debug\Buoi_5_BTCB.exe.config
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\bin\Debug\Buoi_5_BTCB.exe
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\bin\Debug\Buoi_5_BTCB.pdb
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\obj\Debug\Buoi_5_BTCB.exe
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\obj\Debug\Buoi_5_BTCB.pdb
+C:\Users\Admin\source\repos\Buoi_5_BTCB\Buoi_5_BTCB\obj\Debug\Buoi_5_BTCB.exe.config

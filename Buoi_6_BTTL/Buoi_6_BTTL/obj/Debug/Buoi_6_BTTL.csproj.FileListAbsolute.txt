@@ -1,0 +1,7 @@
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_6_BTTL\Buoi_6_BTTL\bin\Debug\Buoi_6_BTTL.exe.config
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_6_BTTL\Buoi_6_BTTL\bin\Debug\Buoi_6_BTTL.exe
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_6_BTTL\Buoi_6_BTTL\bin\Debug\Buoi_6_BTTL.pdb
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_6_BTTL\Buoi_6_BTTL\obj\Debug\Buoi_6_BTTL.csproj.AssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_6_BTTL\Buoi_6_BTTL\obj\Debug\Buoi_6_BTTL.csproj.CoreCompileInputs.cache
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_6_BTTL\Buoi_6_BTTL\obj\Debug\Buoi_6_BTTL.exe
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_6_BTTL\Buoi_6_BTTL\obj\Debug\Buoi_6_BTTL.pdb

@@ -1,0 +1,7 @@
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_4_BTVN\Buoi_4_BTVN\obj\Debug\Buoi_4_BTVN.csproj.AssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_4_BTVN\Buoi_4_BTVN\obj\Debug\Buoi_4_BTVN.csproj.CoreCompileInputs.cache
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_4_BTVN\Buoi_4_BTVN\bin\Debug\Buoi_4_BTVN.exe.config
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_4_BTVN\Buoi_4_BTVN\bin\Debug\Buoi_4_BTVN.exe
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_4_BTVN\Buoi_4_BTVN\bin\Debug\Buoi_4_BTVN.pdb
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_4_BTVN\Buoi_4_BTVN\obj\Debug\Buoi_4_BTVN.exe
+E:\LuuDuLieuSinhVien\2001240206 - Nguyen Le Anh Khoa\Buoi_4_BTVN\Buoi_4_BTVN\obj\Debug\Buoi_4_BTVN.pdb

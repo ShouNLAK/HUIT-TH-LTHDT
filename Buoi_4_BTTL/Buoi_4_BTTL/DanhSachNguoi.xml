@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<Nguoi MSSV ="2001240001">
+		<Ten>Nguyen Van A</Ten>
+		<NgaySinh>01/01/2006</NgaySinh>
+		<Phai>Nam</Phai>
+		<HeDaoTao>Cao dang</HeDaoTao>
+	</Nguoi>
+	<Nguoi MSSV ="2033240002">
+		<Ten>Tran Van A</Ten>
+		<NgaySinh>15/06/2006</NgaySinh>
+		<Phai>Nu</Phai>
+		<HeDaoTao>Dai hoc</HeDaoTao>
+	</Nguoi>
+	<Nguoi MSSV ="2001240204">
+		<Ten>Luong Dang Nhu K</Ten>
+		<NgaySinh>30/04/2006</NgaySinh>
+		<Phai>Nam</Phai>
+		<HeDaoTao>Cao dang nghe</HeDaoTao>
+	</Nguoi>
+	<Nguoi>
+		<Ten>Le Thi H</Ten>
+		<NgaySinh>01/01/1995</NgaySinh>
+		<Phai>Nu</Phai>
+	</Nguoi>
+	<Nguoi MSSV ="2001240007">
+		<Ten>Huynh Quang K</Ten>
+		<NgaySinh>26/07/2006</NgaySinh>
+		<Phai>Nam</Phai>
+		<HeDaoTao>Dai hoc</HeDaoTao>
+	</Nguoi>
+</DanhSach>

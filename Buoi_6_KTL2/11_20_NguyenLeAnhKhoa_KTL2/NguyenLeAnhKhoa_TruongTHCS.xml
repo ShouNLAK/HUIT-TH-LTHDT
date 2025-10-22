@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Truong>
+	<TenTruong>THCS Tan Son</TenTruong>
+	<HoaDons>
+		<HoaDon loai ="1">
+			<Ma>HSMB001</Ma>
+			<Ten>Nguyen Van A</Ten>
+			<KhoiLop>6</KhoiLop>
+			<Nghi>0</Nghi>
+			<HocKN>13</HocKN>
+		</HoaDon>
+		<HoaDon loai ="1">
+			<Ma>HSMB002</Ma>
+			<Ten>Tran Minh B</Ten>
+			<KhoiLop>8</KhoiLop>
+			<Nghi>1</Nghi>
+			<HocKN>13</HocKN>
+		</HoaDon>
+		<HoaDon loai ="1">
+			<Ma>HSMB003</Ma>
+			<Ten>Duong Duc C</Ten>
+			<KhoiLop>9</KhoiLop>
+			<Nghi>0</Nghi>
+			<HocKN>6</HocKN>
+		</HoaDon>
+		<HoaDon loai ="2">
+			<Ma>HSBT001</Ma>
+			<Ten>Tran Minh H</Ten>
+			<KhoiLop>6</KhoiLop>
+			<Nghi>1</Nghi>
+			<English>1</English>
+		</HoaDon>
+		<HoaDon loai ="2">
+			<Ma>HSBT002</Ma>
+			<Ten>Ta Minh K</Ten>
+			<KhoiLop>8</KhoiLop>
+			<Nghi>7</Nghi>
+			<English>0</English>
+		</HoaDon>
+		<HoaDon loai ="2">
+			<Ma>HSBT003</Ma>
+			<Ten>Nguyen Thi Q</Ten>
+			<KhoiLop>9</KhoiLop>
+			<Nghi>0</Nghi>
+			<English>1</English>
+		</HoaDon>
+		<HoaDon loai ="3">
+			<Ma>HSTA001</Ma>
+			<Ten>Le Thi X</Ten>
+			<KhoiLop>7</KhoiLop>
+			<Nghi>0</Nghi>
+		</HoaDon>
+		<HoaDon loai ="3">
+			<Ma>HSTA002</Ma>
+			<Ten>Nguyen Tran Minh T</Ten>
+			<KhoiLop>9</KhoiLop>
+			<Nghi>4</Nghi>
+		</HoaDon>
+		<HoaDon loai ="3">
+			<Ma>HSTA003</Ma>
+			<Ten>Quoc Van Y</Ten>
+			<KhoiLop>8</KhoiLop>
+			<Nghi>2</Nghi>
+		</HoaDon>
+	</HoaDons>
+</Truong>

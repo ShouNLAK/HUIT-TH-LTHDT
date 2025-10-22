@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CongTy>
+	<TenCty>ABC</TenCty>
+	<DiaChi>123 Le Truc Hoach</DiaChi>
+	<DT>0909 364 748</DT>
+	<DSNV>
+		<NV loai ="1">
+			<ma>NV01</ma>
+			<ten>Hoang</ten>
+			<nvl>2010</nvl>
+			<hsl>3.67</hsl>
+			<snn>5</snn>
+		</NV>
+		<NV loai ="2">
+			<ma>NV02</ma>
+			<ten>Trang</ten>
+			<nvl>2020</nvl>
+			<hsl>3.0</hsl>
+			<snn>7</snn>
+			<cv>Truong phong</cv>
+			<hspccv>2</hspccv>
+			<phongban>Tai chinh</phongban>
+		</NV>
+		<NV loai ="1">
+			<ma>NV03</ma>
+			<ten>Trang</ten>
+			<nvl>2018</nvl>
+			<hsl>3.0</hsl>
+			<snn>0</snn>
+		</NV>
+		<NV loai ="1">
+			<ma>NV04</ma>
+			<ten>Lan</ten>
+			<nvl>2022</nvl>
+			<hsl>2.67</hsl>
+			<snn>3</snn>
+		</NV>
+	</DSNV>
+</CongTy>

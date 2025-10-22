@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<NhanVien ChucVu ="Giam doc">
+		<Ma>NV001</Ma>
+		<Ten>Tran Van A</Ten>
+		<HeSoLuong>3.65</HeSoLuong>
+		<ThamNienQL>10</ThamNienQL>
+	</NhanVien>
+	<NhanVien>
+		<Ma>NV002</Ma>
+		<Ten>Nguyen Van B</Ten>
+		<HeSoLuong>2.7</HeSoLuong>
+	</NhanVien>
+	<NhanVien ChucVu ="Truong phong">
+		<Ma>NV003</Ma>
+		<Ten>Quynh Van A</Ten>
+		<HeSoLuong>4</HeSoLuong>
+		<ThamNienQL>10</ThamNienQL>
+	</NhanVien>
+	<NhanVien>
+		<Ma>NV004</Ma>
+		<Ten>Le Thi H</Ten>
+		<HeSoLuong>1.5</HeSoLuong>
+	</NhanVien>
+	<NhanVien ChucVu ="Quan ly">
+		<Ma>NV005</Ma>
+		<Ten>Luong Van K</Ten>
+		<HeSoLuong>2.5</HeSoLuong>
+		<ThamNienQL>3</ThamNienQL>
+	</NhanVien>
+</DanhSach>

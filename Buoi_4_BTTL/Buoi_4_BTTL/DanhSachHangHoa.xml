@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<HangHoa>
+		<Ma>HH001</Ma>
+		<Ten>Bo huc</Ten>
+	</HangHoa>
+	<HangHoa Loai ="NGK">
+		<Ma>HH002</Ma>
+		<Ten>Sting</Ten>
+		<SoLuong>10</SoLuong>
+		<DVT>Lon</DVT>
+		<DonGia>8000</DonGia>
+	</HangHoa>
+	<HangHoa Loai ="NGK">
+		<Ma>HH003</Ma>
+		<Ten>Coca</Ten>
+		<SoLuong>06</SoLuong>
+		<DVT>Lon</DVT>
+		<DonGia>10000</DonGia>
+	</HangHoa>
+	<HangHoa Loai ="NGK">
+		<Ma>HH004</Ma>
+		<Ten>Pepsi</Ten>
+		<SoLuong>2</SoLuong>
+		<DVT>Thung</DVT>
+		<DonGia>120000</DonGia>
+	</HangHoa>
+	<HangHoa>
+		<Ma>HH005</Ma>
+		<Ten>TH True Milk</Ten>
+		<SoLuong>10</SoLuong>
+		<DVT>Chai</DVT>
+		<DonGia>13000</DonGia>
+	</HangHoa>
+</DanhSach>

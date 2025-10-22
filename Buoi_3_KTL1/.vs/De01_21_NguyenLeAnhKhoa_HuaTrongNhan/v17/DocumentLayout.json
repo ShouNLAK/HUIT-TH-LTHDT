@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|e:\\luudulieusinhvien\\de01_21_nguyenleanhkhoa_huatrongnhan\\de01_21_nguyenleanhkhoa_huatrongnhan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|solutionrelative:de01_21_nguyenleanhkhoa_huatrongnhan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\de01_21_nguyenleanhkhoa_huatrongnhan\\giaotrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|solutionrelative:de01_21_nguyenleanhkhoa_huatrongnhan\\giaotrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\de01_21_nguyenleanhkhoa_huatrongnhan\\thongtingiaotrinh.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|solutionrelative:de01_21_nguyenleanhkhoa_huatrongnhan\\thongtingiaotrinh.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\de01_21_nguyenleanhkhoa_huatrongnhan\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651DB314-3ECE-49D3-9194-BD5FB626BB01}|De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan.csproj|solutionrelative:de01_21_nguyenleanhkhoa_huatrongnhan\\nhaxuatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiaoTrinh.cs",
+              "DocumentMoniker": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\GiaoTrinh.cs",
+              "RelativeDocumentMoniker": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\GiaoTrinh.cs",
+              "ToolTip": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\GiaoTrinh.cs",
+              "RelativeToolTip": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\GiaoTrinh.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAD4v0gAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:04:46.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongTinGiaoTrinh.xml",
+              "DocumentMoniker": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\ThongTinGiaoTrinh.xml",
+              "RelativeDocumentMoniker": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\ThongTinGiaoTrinh.xml",
+              "ToolTip": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\ThongTinGiaoTrinh.xml",
+              "RelativeToolTip": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\ThongTinGiaoTrinh.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-30T07:28:36.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhaXuatBan.cs",
+              "DocumentMoniker": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\NhaXuatBan.cs",
+              "RelativeDocumentMoniker": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\NhaXuatBan.cs",
+              "ToolTip": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\NhaXuatBan.cs",
+              "RelativeToolTip": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\NhaXuatBan.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIAywDUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:27:40.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\Program.cs",
+              "RelativeDocumentMoniker": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\Program.cs",
+              "ToolTip": "E:\\LuuDuLieuSinhVien\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\Program.cs",
+              "RelativeToolTip": "De01_21_NguyenLeAnhKhoa_HuaTrongNhan\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:26:59.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

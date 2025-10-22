@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BDSs>
+	<BDS>
+		<Loai>1</Loai>
+		<Ma>DT001</Ma>
+		<Dai>10</Dai>
+		<Rong>5</Rong>
+	</BDS>
+	<BDS>
+		<Loai>2</Loai>
+		<Ma>NO001</Ma>
+		<Dai>20</Dai>
+		<Rong>12</Rong>
+		<SoLau>3</SoLau>
+	</BDS>
+	<BDS>
+		<Loai>3</Loai>
+		<Ma>KS001</Ma>
+		<Dai>30</Dai>
+		<Rong>25</Rong>
+		<SoSao>3.4</SoSao>
+	</BDS>
+	<BDS>
+		<Loai>4</Loai>
+		<Ma>BT001</Ma>
+		<Dai>27</Dai>
+		<Rong>25</Rong>
+	</BDS>
+</BDSs>

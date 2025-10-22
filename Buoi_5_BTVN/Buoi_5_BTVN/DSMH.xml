@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Monhocs>
+	<MH>
+		<Loai>1</Loai>
+		<Ma>LT001</Ma>
+		<Ten>Cau truc du lieu va giai thuat</Ten>
+		<SoTC>2</SoTC>
+		<KhoaQL>Cong nghe thong tin</KhoaQL>
+		<DiemTL>9</DiemTL>
+		<DiemGK>8</DiemGK>
+		<DiemCK>10</DiemCK>
+	</MH>
+	<MH>
+		<Loai>2</Loai>
+		<Ma>TH001</Ma>
+		<Ten>TH Cau truc du lieu va giai thuat</Ten>
+		<SoTC>2</SoTC>
+		<KhoaQL>Cong nghe thong tin</KhoaQL>
+		<DiemLan1>10</DiemLan1>
+		<DiemLan2>7</DiemLan2>
+		<DiemLan3>8</DiemLan3>
+		<DiemLan4>8</DiemLan4>
+	</MH>
+	<MH>
+		<Loai>3</Loai>
+		<Ma>DA001</Ma>
+		<Ten>Nghien cuu khoa hoc</Ten>
+		<SoTC>3</SoTC>
+		<KhoaQL>Cong nghe thong tin</KhoaQL>
+		<DiemGVHD>9</DiemGVHD>
+		<DiemGVPB>10</DiemGVPB>
+	</MH>
+	<MH>
+		<Loai>1</Loai>
+		<Ma>LT002</Ma>
+		<Ten>Huong dan nau an</Ten>
+		<SoTC>2</SoTC>
+		<KhoaQL>Cong nghe thuc pham</KhoaQL>
+		<DiemTL>5</DiemTL>
+		<DiemGK>9</DiemGK>
+		<DiemCK>7</DiemCK>
+	</MH>
+	<MH>
+		<Loai>2</Loai>
+		<Ma>TH002</Ma>
+		<Ten>Thuc hanh nau an</Ten>
+		<SoTC>3</SoTC>
+		<KhoaQL>Cong nghe thuc pham</KhoaQL>
+		<DiemLan1>6</DiemLan1>
+		<DiemLan2>7</DiemLan2>
+		<DiemLan3>9</DiemLan3>
+		<DiemLan4>10</DiemLan4>
+	</MH>
+</Monhocs>

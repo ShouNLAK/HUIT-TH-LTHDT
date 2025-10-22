@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KhuTro>
+	<Ten>Tran Van A</Ten>
+	<DiaChi>140 Le Trong Tan</DiaChi>
+	<dsPhong>
+		<Phong>
+			<Loai>1</Loai>
+			<MaP>PT01</MaP>
+			<SoLuong>3</SoLuong>
+			<SoDien>100</SoDien>
+			<Gia>1000000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>0</Loai>
+			<MaP>PT02</MaP>
+			<SoLuong>1</SoLuong>
+			<SoDien>19</SoDien>
+			<Gia>1500000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>1</Loai>
+			<MaP>PT03</MaP>
+			<SoLuong>8</SoLuong>
+			<SoDien>350</SoDien>
+			<Gia>6000000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>0</Loai>
+			<MaP>PT04</MaP>
+			<SoLuong>2</SoLuong>
+			<SoDien>25</SoDien>
+			<Gia>1000000</Gia>
+		</Phong>
+		<Phong>
+			<Loai>1</Loai>
+			<MaP>ST01</MaP>
+			<SoLuong>1</SoLuong>
+			<SoDien>1</SoDien>
+			<Gia>1</Gia>
+		</Phong>
+	</dsPhong>
+</KhuTro>
